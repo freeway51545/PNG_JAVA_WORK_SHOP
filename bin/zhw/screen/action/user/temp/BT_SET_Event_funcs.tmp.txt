@@ -1,0 +1,29 @@
+package zhw.screen.action.user.actions;
+import zhw.screen.action.MSG_ZHW;
+import zhw.screen.action.user.BT_SET_Event;
+public class BT_SET_Event_funcs extends BT_SET_Event {
+    public  void _F_INIT_FUN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE_TIMMER(MSG_ZHW msg){
+    };
+
+    public  void _F_MAIN(MSG_ZHW msg){
+    };
+
+    public  void _F_OPTION(MSG_ZHW msg){
+    };
+
+    public  void _F_DAIL(MSG_ZHW msg){
+    };
+
+    public  void _F_PAIR(MSG_ZHW msg){
+    };
+
+    public  void _F_BTSWITCH(MSG_ZHW msg){
+    };
+
+    public  void _F_BOOKSWITCH(MSG_ZHW msg){
+    };
+
+};

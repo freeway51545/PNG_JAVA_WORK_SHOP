@@ -1,0 +1,59 @@
+package zhw.screen.action.user.actions;
+import zhw.screen.action.MSG_ZHW;
+import zhw.screen.action.user.TONE_Event;
+public class TONE_Event_funcs extends TONE_Event {
+    public  void _F_INIT_FUN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE_TIMMER(MSG_ZHW msg){
+    };
+
+    public  void _F_MAIN(MSG_ZHW msg){
+    };
+
+    public  void _F_EQ(MSG_ZHW msg){
+    };
+
+    public  void _F_DEFAULT(MSG_ZHW msg){
+    };
+
+    public  void _F_SYS(MSG_ZHW msg){
+    };
+
+    public  void _F_USER(MSG_ZHW msg){
+    };
+
+    public  void _F_LEFT(MSG_ZHW msg){
+    };
+
+    public  void _F_RIGHT(MSG_ZHW msg){
+    };
+
+    public  void _F_UP(MSG_ZHW msg){
+    };
+
+    public  void _F_DOWN(MSG_ZHW msg){
+    };
+
+    public  void _F_LEFT_L(MSG_ZHW msg){
+    };
+
+    public  void _F_LEFT_M(MSG_ZHW msg){
+    };
+
+    public  void _F_LEFT_H(MSG_ZHW msg){
+    };
+
+    public  void _F_RIGHT_L(MSG_ZHW msg){
+    };
+
+    public  void _F_RIGHT_M(MSG_ZHW msg){
+    };
+
+    public  void _F_RIGHT_H(MSG_ZHW msg){
+    };
+
+    public  void _F_TONE(MSG_ZHW msg){
+    };
+
+};

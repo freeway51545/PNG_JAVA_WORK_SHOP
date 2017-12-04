@@ -1,0 +1,32 @@
+package zhw.screen.action.user.actions;
+import zhw.screen.action.MSG_ZHW;
+import zhw.screen.action.user.BT_OPTION_Event;
+public class BT_OPTION_Event_funcs extends BT_OPTION_Event {
+    public  void _F_INIT_FUN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE_TIMMER(MSG_ZHW msg){
+    };
+
+    public  void _F_MAIN(MSG_ZHW msg){
+    };
+
+    public  void _F_SETUP(MSG_ZHW msg){
+    };
+
+    public  void _F_DAIL(MSG_ZHW msg){
+    };
+
+    public  void _F_PAIR(MSG_ZHW msg){
+    };
+
+    public  void _F_LEFT(MSG_ZHW msg){
+    };
+
+    public  void _F_RIGHT(MSG_ZHW msg){
+    };
+
+    public  void _F_AUTOANSWER(MSG_ZHW msg){
+    };
+
+};

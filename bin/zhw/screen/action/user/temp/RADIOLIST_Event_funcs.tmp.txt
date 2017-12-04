@@ -1,0 +1,32 @@
+package zhw.screen.action.user.actions;
+import zhw.screen.action.MSG_ZHW;
+import zhw.screen.action.user.RADIOLIST_Event;
+public class RADIOLIST_Event_funcs extends RADIOLIST_Event {
+    public  void _F_INIT_FUN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE_TIMMER(MSG_ZHW msg){
+    };
+
+    public  void _F_MAIN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE(MSG_ZHW msg){
+    };
+
+    public  void _F_LIST(MSG_ZHW msg){
+    };
+
+    public  void _F_FM(MSG_ZHW msg){
+    };
+
+    public  void _F_AM(MSG_ZHW msg){
+    };
+
+    public  void _F_RADIO(MSG_ZHW msg){
+    };
+
+    public  void _F_EQ(MSG_ZHW msg){
+    };
+
+};

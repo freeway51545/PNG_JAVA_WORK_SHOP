@@ -1,0 +1,44 @@
+package zhw.screen.action.user.actions;
+import zhw.screen.action.MSG_ZHW;
+import zhw.screen.action.user.BT_PAIR_Event;
+public class BT_PAIR_Event_funcs extends BT_PAIR_Event {
+    public  void _F_INIT_FUN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE_TIMMER(MSG_ZHW msg){
+    };
+
+    public  void _F_MAIN(MSG_ZHW msg){
+    };
+
+    public  void _F_PAIR(MSG_ZHW msg){
+    };
+
+    public  void _F_ADDDEV(MSG_ZHW msg){
+    };
+
+    public  void _F_DIAL(MSG_ZHW msg){
+    };
+
+    public  void _F_SETUP(MSG_ZHW msg){
+    };
+
+    public  void _F_UP(MSG_ZHW msg){
+    };
+
+    public  void _F_DOWN(MSG_ZHW msg){
+    };
+
+    public  void _F_LINK(MSG_ZHW msg){
+    };
+
+    public  void _F_UNLINK(MSG_ZHW msg){
+    };
+
+    public  void _F_DEL(MSG_ZHW msg){
+    };
+
+    public  void _F_CANCEL(MSG_ZHW msg){
+    };
+
+};

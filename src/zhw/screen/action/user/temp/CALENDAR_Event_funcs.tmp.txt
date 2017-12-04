@@ -1,0 +1,26 @@
+package zhw.screen.action.user.actions;
+import zhw.screen.action.MSG_ZHW;
+import zhw.screen.action.user.CALENDAR_Event;
+public class CALENDAR_Event_funcs extends CALENDAR_Event {
+    public  void _F_INIT_FUN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE_TIMMER(MSG_ZHW msg){
+    };
+
+    public  void _F_MAIN(MSG_ZHW msg){
+    };
+
+    public  void _F_YEAR_LEFT(MSG_ZHW msg){
+    };
+
+    public  void _F_YEAR_RIGHT(MSG_ZHW msg){
+    };
+
+    public  void _F_MONTH_LEFT(MSG_ZHW msg){
+    };
+
+    public  void _F_MONTH_RIGHT(MSG_ZHW msg){
+    };
+
+};

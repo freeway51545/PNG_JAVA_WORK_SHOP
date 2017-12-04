@@ -1,0 +1,50 @@
+package zhw.screen.action.user.actions;
+import zhw.screen.action.MSG_ZHW;
+import zhw.screen.action.user.BT_DIAL_Event;
+public class BT_DIAL_Event_funcs extends BT_DIAL_Event {
+    public  void _F_INIT_FUN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE_TIMMER(MSG_ZHW msg){
+    };
+
+    public  void _F_MAIN(MSG_ZHW msg){
+    };
+
+    public  void _F_BOOK(MSG_ZHW msg){
+    };
+
+    public  void _F_RECORDE(MSG_ZHW msg){
+    };
+
+    public  void _F_PAIR(MSG_ZHW msg){
+    };
+
+    public  void _F_SETUP(MSG_ZHW msg){
+    };
+
+    public  void _F_PRESSED(String a,MSG_ZHW msg){
+    };
+
+    public  void _F_BKS(MSG_ZHW msg){
+    };
+
+    public  void _F_BKS_ALL(MSG_ZHW msg){
+    };
+
+    public  void _F_DIAL(MSG_ZHW msg){
+    };
+
+    public  void _F_PICKUP(MSG_ZHW msg){
+    };
+
+    public  void _F_HANGUP(MSG_ZHW msg){
+    };
+
+    public  void _F_PRIVATE(MSG_ZHW msg){
+    };
+
+    public  void _F_MUTE(MSG_ZHW msg){
+    };
+
+};

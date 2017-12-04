@@ -1,0 +1,23 @@
+package zhw.screen.action.user.actions;
+import zhw.screen.action.MSG_ZHW;
+import zhw.screen.action.user.BT_SRC_Event;
+public class BT_SRC_Event_funcs extends BT_SRC_Event {
+    public  void _F_INIT_FUN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE_TIMMER(MSG_ZHW msg){
+    };
+
+    public  void _F_MAIN(MSG_ZHW msg){
+    };
+
+    public  void _F_USB(MSG_ZHW msg){
+    };
+
+    public  void _F_CMD(MSG_ZHW msg){
+    };
+
+    public  void _F_EQ(MSG_ZHW msg){
+    };
+
+};

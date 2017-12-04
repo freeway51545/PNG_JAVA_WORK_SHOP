@@ -1,0 +1,32 @@
+package zhw.screen.action.user.actions;
+import zhw.screen.action.MSG_ZHW;
+import zhw.screen.action.user.DATE_Event;
+public class DATE_Event_funcs extends DATE_Event {
+    public  void _F_INIT_FUN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE_TIMMER(MSG_ZHW msg){
+    };
+
+    public  void _F_MAIN(MSG_ZHW msg){
+    };
+
+    public  void _F_SHOW(MSG_ZHW msg){
+    };
+
+    public  void _F_VER(MSG_ZHW msg){
+    };
+
+    public  void _F_TONE(MSG_ZHW msg){
+    };
+
+    public  void _F_USER(MSG_ZHW msg){
+    };
+
+    public  void _F_ONOFF(MSG_ZHW msg){
+    };
+
+    public  void _F_T12_24(MSG_ZHW msg){
+    };
+
+};

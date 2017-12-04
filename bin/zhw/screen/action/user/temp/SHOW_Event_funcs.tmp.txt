@@ -1,0 +1,38 @@
+package zhw.screen.action.user.actions;
+import zhw.screen.action.MSG_ZHW;
+import zhw.screen.action.user.SHOW_Event;
+public class SHOW_Event_funcs extends SHOW_Event {
+    public  void _F_INIT_FUN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE_TIMMER(MSG_ZHW msg){
+    };
+
+    public  void _F_MAIN(MSG_ZHW msg){
+    };
+
+    public  void _F_VER(MSG_ZHW msg){
+    };
+
+    public  void _F_DATE(MSG_ZHW msg){
+    };
+
+    public  void _F_TONE(MSG_ZHW msg){
+    };
+
+    public  void _F_USER(MSG_ZHW msg){
+    };
+
+    public  void _F_LCDOFF(MSG_ZHW msg){
+    };
+
+    public  void _F_LEFT(MSG_ZHW msg){
+    };
+
+    public  void _F_RIGHT(MSG_ZHW msg){
+    };
+
+    public  void _F_ONOFF(MSG_ZHW msg){
+    };
+
+};

@@ -1,0 +1,26 @@
+package zhw.screen.action.user.actions;
+import zhw.screen.action.MSG_ZHW;
+import zhw.screen.action.user.VER_Event;
+public class VER_Event_funcs extends VER_Event {
+    public  void _F_INIT_FUN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE_TIMMER(MSG_ZHW msg){
+    };
+
+    public  void _F_MAIN(MSG_ZHW msg){
+    };
+
+    public  void _F_SHOW(MSG_ZHW msg){
+    };
+
+    public  void _F_DATE(MSG_ZHW msg){
+    };
+
+    public  void _F_TONE(MSG_ZHW msg){
+    };
+
+    public  void _F_USER(MSG_ZHW msg){
+    };
+
+};

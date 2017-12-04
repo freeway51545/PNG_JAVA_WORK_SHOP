@@ -1,0 +1,53 @@
+package zhw.screen.action.user.actions;
+import zhw.screen.action.MSG_ZHW;
+import zhw.screen.action.user.BT_RECORD_Event;
+public class BT_RECORD_Event_funcs extends BT_RECORD_Event {
+    public  void _F_INIT_FUN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE_TIMMER(MSG_ZHW msg){
+    };
+
+    public  void _F_MAIN(MSG_ZHW msg){
+    };
+
+    public  void _F_BOOK(MSG_ZHW msg){
+    };
+
+    public  void _F_DIGDIAL(MSG_ZHW msg){
+    };
+
+    public  void _F_PAIR(MSG_ZHW msg){
+    };
+
+    public  void _F_SETUP(MSG_ZHW msg){
+    };
+
+    public  void _F_UP(MSG_ZHW msg){
+    };
+
+    public  void _F_DOWN(MSG_ZHW msg){
+    };
+
+    public  void _F_ALL(MSG_ZHW msg){
+    };
+
+    public  void _F_RECEIVED(MSG_ZHW msg){
+    };
+
+    public  void _F_MISSED(MSG_ZHW msg){
+    };
+
+    public  void _F_DIALED(MSG_ZHW msg){
+    };
+
+    public  void _F_DAIL(MSG_ZHW msg){
+    };
+
+    public  void _F_DEL(MSG_ZHW msg){
+    };
+
+    public  void _F_DELALL(MSG_ZHW msg){
+    };
+
+};

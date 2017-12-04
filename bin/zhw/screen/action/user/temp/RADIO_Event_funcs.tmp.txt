@@ -1,0 +1,41 @@
+package zhw.screen.action.user.actions;
+import zhw.screen.action.MSG_ZHW;
+import zhw.screen.action.user.RADIO_Event;
+public class RADIO_Event_funcs extends RADIO_Event {
+    public  void _F_INIT_FUN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE_TIMMER(MSG_ZHW msg){
+    };
+
+    public  void _F_MAIN(MSG_ZHW msg){
+    };
+
+    public  void _F_ADJUST(MSG_ZHW msg){
+    };
+
+    public  void _F_SAVE(MSG_ZHW msg){
+    };
+
+    public  void _F_SCAN(MSG_ZHW msg){
+    };
+
+    public  void _F_UP(MSG_ZHW msg){
+    };
+
+    public  void _F_DOWN(MSG_ZHW msg){
+    };
+
+    public  void _F_LEFT(MSG_ZHW msg){
+    };
+
+    public  void _F_RIGHT(MSG_ZHW msg){
+    };
+
+    public  void _F_LIST(MSG_ZHW msg){
+    };
+
+    public  void _F_EQ(MSG_ZHW msg){
+    };
+
+};

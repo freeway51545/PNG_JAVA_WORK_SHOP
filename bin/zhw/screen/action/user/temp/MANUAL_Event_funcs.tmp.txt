@@ -1,0 +1,26 @@
+package zhw.screen.action.user.actions;
+import zhw.screen.action.MSG_ZHW;
+import zhw.screen.action.user.MANUAL_Event;
+public class MANUAL_Event_funcs extends MANUAL_Event {
+    public  void _F_INIT_FUN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE_TIMMER(MSG_ZHW msg){
+    };
+
+    public  void _F_MAIN(MSG_ZHW msg){
+    };
+
+    public  void _F_SYS(MSG_ZHW msg){
+    };
+
+    public  void _F_TONE(MSG_ZHW msg){
+    };
+
+    public  void _F_LEFT(MSG_ZHW msg){
+    };
+
+    public  void _F_RIGHT(MSG_ZHW msg){
+    };
+
+};

@@ -1,0 +1,32 @@
+package zhw.screen.action.user.actions;
+import zhw.screen.action.MSG_ZHW;
+import zhw.screen.action.user.BT_MUSIC_Event;
+public class BT_MUSIC_Event_funcs extends BT_MUSIC_Event {
+    public  void _F_INIT_FUN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE_TIMMER(MSG_ZHW msg){
+    };
+
+    public  void _F_MAIN(MSG_ZHW msg){
+    };
+
+    public  void _F_SRC(MSG_ZHW msg){
+    };
+
+    public  void _F_EQ(MSG_ZHW msg){
+    };
+
+    public  void _F_PLAY(MSG_ZHW msg){
+    };
+
+    public  void _F_PREV(MSG_ZHW msg){
+    };
+
+    public  void _F_NEXT(MSG_ZHW msg){
+    };
+
+    public  void _F_DEV(MSG_ZHW msg){
+    };
+
+};

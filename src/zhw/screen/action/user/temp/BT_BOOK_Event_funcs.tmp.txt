@@ -1,0 +1,38 @@
+package zhw.screen.action.user.actions;
+import zhw.screen.action.MSG_ZHW;
+import zhw.screen.action.user.BT_BOOK_Event;
+public class BT_BOOK_Event_funcs extends BT_BOOK_Event {
+    public  void _F_INIT_FUN(MSG_ZHW msg){
+    };
+
+    public  void _F_UPDATE_TIMMER(MSG_ZHW msg){
+    };
+
+    public  void _F_MAIN(MSG_ZHW msg){
+    };
+
+    public  void _F_RECORD(MSG_ZHW msg){
+    };
+
+    public  void _F_DIGDIAL(MSG_ZHW msg){
+    };
+
+    public  void _F_PAIR(MSG_ZHW msg){
+    };
+
+    public  void _F_SETUP(MSG_ZHW msg){
+    };
+
+    public  void _F_UP(MSG_ZHW msg){
+    };
+
+    public  void _F_DOWN(MSG_ZHW msg){
+    };
+
+    public  void _F_LOAD(MSG_ZHW msg){
+    };
+
+    public  void _F_DIAL(MSG_ZHW msg){
+    };
+
+};
